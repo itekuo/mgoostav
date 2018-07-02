@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "2.*",
+        "google/apiclient": "1.0.*@beta"
+    }
+}
